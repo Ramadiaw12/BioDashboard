@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1 className='bg-red-300 text-6xl'>Liste des échantillons avec leur statut</h1>
+      {/* <h1 className='bg-red-300 text-6xl'>Liste des échantillons avec leur statut</h1> */}
     </>
   )
 }
